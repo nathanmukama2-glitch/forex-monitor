@@ -1,0 +1,2 @@
+# forex-monitor
+forex
