@@ -6,7 +6,7 @@ import time
 # --- CONFIGURATION ---
 # Replace these with your Twilio credentials
 TWILIO_SID = 'AC412603a0b82a46ddb73eaa955333c645'
-TWILIO_TOKEN = 'ae3436bc226dcf781a424cbcd327e951'
+TWILIO_TOKEN = 'd9ed0a3bbccaa45010f17bbd4ca2d9a7'
 TWILIO_WHATSAPP_FROM = 'whatsapp:+14155238886'  # Twilio Sandbox Number
 MY_WHATSAPP_TO = 'whatsapp:+256786324893'        # Your Number
 
